@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=woozxn&show_icons=true&theme=dracula"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=woozxn&show_icons=true&count_private=true&theme=dracula"/>
  
   ### 🌘 woozxn 🌕 
   
