@@ -12,7 +12,7 @@
 
 Hi, I'm learning about software at Soongsil University now.
 
- [**woozxn.tistory.com**](https://woozxn.tistory.com/) 블로그
+<!-- [**woozxn.tistory.com**](https://woozxn.tistory.com/) 블로그 -->
  
  <br>
  
