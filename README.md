@@ -10,7 +10,7 @@
   
 👋
 
-Hi, I'm learning about software at Soongsil University.
+Hi, I'm learning about software at Soongsil University..
   
 🌒아이마켓코리아 정보전략팀 인턴 (2022.09 ~ 2022.12)
 
